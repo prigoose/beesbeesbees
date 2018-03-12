@@ -1,4 +1,4 @@
-var Bee = function(age, color, food) {
+var Bee = function() {
 	Grub.call(this, age, color, food);
 	this.age = 5;
 	this.color = 'yellow';
